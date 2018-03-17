@@ -1,4 +1,6 @@
-# Api
+# Example of an API for User Authentication 
+
+## Checks whether the user has a registration in the api or not. If the user does not have it he can create one.
 
 To start your Phoenix server:
 
